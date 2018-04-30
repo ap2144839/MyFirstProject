@@ -1,6 +1,6 @@
 public class Pro {
 public static void main (String args[]){
-   System.out.println("İòî ÌÎß ÏĞÎÃÀ!!!");
+   System.out.println("İòî ÌÎß ÏĞÎÃÀ!");
    byte b;
    short s;
    int i=10;
