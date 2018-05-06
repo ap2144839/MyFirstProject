@@ -9,6 +9,7 @@ public class Seasons {
                break;
             case 2:
                month = "February";
+               break;
             case 3:
                month = "March";
                break;
